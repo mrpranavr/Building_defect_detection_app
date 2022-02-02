@@ -5,6 +5,12 @@
   This is a application that makes use of image classification in order to <b>detect building defects</b> through a <b>live camera</b>. Transfer
   learning is used for the deep learning model.
   
+  &nbsp;
+  <br>
+  <p align = "center">
+  <img src = "logo.png" width = 30%>    
+</p>
+  
 ## About the project
   This project in its core is a <b>image classification model</b> that can detect defects in a building. These defects are <b>Roof defect, cracks defect and flakes on surfaces.</b> In order for users to use the model easily, I have incorporated the model into a application with a GUI that once excecuted, runs on the local network of the device. 
   
