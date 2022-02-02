@@ -8,7 +8,7 @@
   &nbsp;
   <br>
   <p align = "center">
-  <img src = "logo.png" width = 30%>    
+  <img src = "Project logo.png" width = 30%>    
 </p>
   
 ## About the project
